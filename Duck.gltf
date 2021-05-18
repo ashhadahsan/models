@@ -175,11 +175,6 @@
             "source": 0
         }
     ],
-    "images": [
-        {
-            "uri": "DuckCM.png"
-        }
-    ],
     "samplers": [
         {
             "magFilter": 9729,
